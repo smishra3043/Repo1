@@ -1,0 +1,10 @@
+ Volume in drive E is s/w
+ Volume Serial Number is 0C5E-16AD
+
+ Directory of E:\git-training\training\My_Project
+
+04/09/2020  11:07 PM    <DIR>          .
+04/09/2020  11:07 PM    <DIR>          ..
+04/09/2020  11:07 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  25,570,926,592 bytes free
